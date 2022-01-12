@@ -1,6 +1,4 @@
-### Hi there ! This is Darshan 👋
-### And I'm just a beginner in Coding 🔭
-### But I'm Gonna Come to ur pro level ASAP ⚡
+
 
 <!--
 **D-Rex10/D-Rex10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

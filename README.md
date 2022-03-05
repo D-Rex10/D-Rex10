@@ -1,10 +1,10 @@
 # Bank-Management-System
-mini project based on c language
+Mini project based on C language
 
-System Code ; https://github.com/Darshan-6174/D-Rex10/blob/main/source-code.c
+Program Code ; https://github.com/Darshan-6174/D-Rex10/blob/main/source-code.c
 
-Pptx file : https://github.com/Darshan-6174/BankMangement-System/blob/main/Bank%20Management%20System.pptx
+Pptx File : https://github.com/Darshan-6174/BankMangement-System/blob/main/Bank%20Management%20System.pptx
 
-Programmed And Coded by
+Programmed And Compiled by
 
 **Darshan**
